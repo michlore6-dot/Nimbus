@@ -5,7 +5,7 @@ Nimbus: An Open-Source aerostat using an internal solar concentrator and ceramic
 # NIMBUS — Solar Thermal Aerostat
 ### An open-source flying platform powered by concentrated solar energy
 
-![Nimbus Concept](images/01.png)
+![Nimbus Concept](01.png)
 
 ---
 
@@ -38,7 +38,7 @@ A semi-circular array of heliostats on a south-facing slope beams additional sol
 
 A first experiment was conducted using a foil-lined parabolic shell (16cm diameter) with a standard thermometer at the focal point. Starting from an ambient temperature of 22.5°C, the focal point reached **41°C within seconds**, confirming rapid energy concentration at the focal point.
 
-![Experiment](images/Exp1.jpg)
+![Experiment](Exp1.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ A first experiment was conducted using a foil-lined parabolic shell (16cm diamet
 
 A physical scale model was built using metal tubes, cables, and a 16cm transparent sphere to demonstrate the exoskeleton kinematics and two-axis cable-driven tracking mechanism.
 
-![Scale Model](images/Model.jpg)
+![Scale Model](Model.jpg)
 
 ---
 
